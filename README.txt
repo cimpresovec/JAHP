@@ -7,13 +7,15 @@ by Super Meat Boy, Jumper, etc.
 
 ---------------------
 
-You need SDL, SDL_image, OpenGL and FMOD to compile
+You need SDL, SDL_image, OpenGL and FMOD to compile.
 
 ---------------------
 
 There is a 6 second pause in the init() function because
 some weird FMOD loading bug I had when I was developing it.
 Take the pause out if you don't need it.
+
+The music is excluded, it wasn't mine so I don't want any license problems.
 
 ---------------------
 
