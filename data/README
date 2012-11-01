@@ -1,0 +1,39 @@
+////////////////////////////////////////////////////////
+/////////////////	JAHP   	  //////////////////////
+////////////////////////////////////////////////////////
+
+JAHP is a hard platformer game made for Windows and Linux.
+
+//// CONTROLS  ////
+
+A: move left
+D: move right
+W: jump
+SPACE: Used as confirmation button
+R: restart level
+M: toggles music (in menu or while playing)
+
+
+//// ABOUT ////
+
+Game is made in C++ using SDL, OpenGL and Fmod. The idea came from games like
+Meat Boy, Super Meat Boy, Jumper series, F(l)ail, ...
+
+//// EDITOR INFO ////
+
+The editor is really simple. Use arrow keys to navigate the map, button 1 - 9 
+to select items (yellow block is spawn point, white block does nothing). 
+Level is saved using the 0 button. It is saved as level 0 in the levels map.
+You have to replace one of the levels (usually level 1) to play it.
+Use "e" to erase all block, because erasing them all by hand crashes the game.
+
+The editor is only for the curious ones. Not made for any public use.
+
+//// CONTACT  ////
+
+E-mail: redreaper132@gmail.com
+Website/blog: http://www.redgamedevblog.blogspot.com/
+
+/////////////////
+
+Thanks for playing  
